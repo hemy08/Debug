@@ -1,0 +1,8 @@
+1、下载文件，将整个目录放在GO_PATH目录下
+
+2、使用的时候 improt "Debug"
+
+3、使用方法可以看源码，也可以去看
+https://blog.csdn.net/ZHAOJUNWEI08/article/details/86411348
+https://blog.csdn.net/ZHAOJUNWEI08/article/details/86429369
+https://blog.csdn.net/ZHAOJUNWEI08/article/details/86565179
